@@ -1,17 +1,17 @@
 # Optimizing-e-commerce-marketing-campaigns
 
-
 **Language:** Python
 
-**Libraries:** Pandas, sklearn
+**Libraries:** Pandas, Numpy, seaborn,matplotlib,sklearn,sci-kit learn
 
 **Environment:** Jupyter Notebook 
 
 Welcome to my Machine Learning project!
 
-This data analytics project focuses on predicting cab booking cancellations using the "YourCabs" dataset available on Kaggle. The dataset provides valuable insights into various factors affecting the cancellation of cab bookings, enabling us to build a predictive model for anticipating cancellations. By leveraging advanced data analytics techniques and machine learning algorithms, this project aims to enhance the efficiency of cab services and improve customer satisfaction.
+This data analytics project aims to optimize e-commerce marketing campaigns using advanced data analytics techniques. Leveraging the dataset available at Kaggle the goal is to extract valuable insights, enhance decision-making processes, and ultimately improve the effectiveness of marketing strategies.
 
-## Prediction techniques used
-
-1. Neural Network.
-2. Logistic Regression
+## techniques used
+1. Random Forest.
+2. Logistic Regression.
+3. Exploratory data analysis
+4. feature engineering
